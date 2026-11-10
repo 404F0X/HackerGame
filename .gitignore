@@ -1,0 +1,22 @@
+# Python 自动生成的缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境（目前在上一级目录，以防以后放进来）
+.venv/
+venv/
+
+# 测试代码（包括 old_game/tests）
+tests/
+.pytest_cache/
+
+# Word 打开文档时生成的临时锁文件
+~$*
+
+# 旧原型代码归档，只保留在本地
+old_game/
+
+# pip install -e . 生成的构建信息
+*.egg-info/
+build/
+dist/
