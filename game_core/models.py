@@ -48,3 +48,4 @@ class Board():
         cell.piece=Piece(player)
         return cell.piece
     
+    

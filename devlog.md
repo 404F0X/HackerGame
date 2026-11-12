@@ -24,3 +24,4 @@ get_piece
 remove_piece
 place_piece
 ```
+Finished the code
